@@ -12,11 +12,3 @@ Este é um projeto pessoal para criar uma rádio Lo-Fi utilizando React Native. 
 ## Tecnologias
 
 - **React Native**
-
-## Instalação
-
-1. Clone o repositório:
-
-   ```bash
-   git clone https://github.com/caiodjss/lofi-radio.git
-
